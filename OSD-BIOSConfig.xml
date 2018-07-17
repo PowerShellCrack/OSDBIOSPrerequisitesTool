@@ -18,14 +18,14 @@
 			<provider enabled="false">
 				<name>DellBIOSPowershell</name>
 				<platformsupport>Dell Inc.</platformsupport>
-				<path_x64>D:\DeploymentShare\Scripts\TRIBOOT\PowershellModules\DellBIOSProvider\1.0</path_x64>
-				<path_x86>D:\DeploymentShare\Scripts\TRIBOOT\PowershellModules\DellBIOSProviderX86\1.0</path_x86>
+				<path_x64>D:\DeploymentShare\Scripts\Custom\PowershellModules\DellBIOSProvider\1.0</path_x64>
+				<path_x86>D:\DeploymentShare\Scripts\Custom\PowershellModules\DellBIOSProviderX86\1.0</path_x86>
 			</provider>
 			<provider enabled="true">
 				<name>Dell Command | Configure Toolkit</name>
 				<platformsupport>Dell Inc.</platformsupport>
-				<path_x64>D:\DeploymentShare\Scripts\TRIBOOT\tools\Dell\X86_64</path_x64>
-				<path_x86>D:\DeploymentShare\Scripts\TRIBOOT\tools\Dell\X86</path_x86>
+				<path_x64>Bin\CCTK\X86_64</path_x64>
+				<path_x86>Bin\CCTK\X86</path_x86>
 			</provider>
 		</additionalProviders>		
 
@@ -59,6 +59,11 @@
 				<manufacturer>Dell Inc.</manufacturer>
 				<model>Precision T7610</model>
 				<biosrev>A11</biosrev>
+			</system>
+			<system>
+				<manufacturer>Dell Inc.</manufacturer>
+				<model>Precision M4600</model>
+				<biosrev>A17</biosrev>
 			</system>
 			<system id="test">
 				<manufacturer>System manufacturer</manufacturer>
