@@ -30,9 +30,9 @@
 		</additionalProviders>		
 
 		<knownBIOSPasswords>
-			<cryptpassword>Vp/6rtVh5xVziVakKqKSlQ==</cryptpassword>
-			<cryptpassword>dLJ+P3TJ3kxFVxxlawpqzA==</cryptpassword>
-			<cryptpassword>az1IW4sWbG00Tc1tKXoLPA==</cryptpassword>
+			<cryptpassword>Vp/6rtVh5xVxqVakKqKSlQ==</cryptpassword>
+			<cryptpassword>dLJ+P3TJ3kzFVxxlaypqzA==</cryptpassword>
+			<cryptpassword>az1IW4sWbG12Tc1tKXoLPA==</cryptpassword>
 		</knownBIOSPasswords>
 	</configs>
 
