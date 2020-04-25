@@ -1,6 +1,6 @@
 # OSDBIOSPrerequisitesTool
 ![UI](https://1.bp.blogspot.com/-hAkLcE0pWgo/XqROTpp9tCI/AAAAAAAAZHM/OFIDKVmePzwiLeIen_8FZy1j26a_NynKQCLcBGAsYHQ/s640/osdprereqTool_UI.png)
-
+![Logging](https://1.bp.blogspot.com/-POS9h6b2FwU/XqROTjVGvkI/AAAAAAAAZHQ/r618dT4kcjImrJ-_762KGVO5qpK7s2b_gCLcBGAsYHQ/s640/osdprereqTool_logging.png)
 
 ## New Features added:
  - checks for a config file remotely if enabled and exists. Gives us the ability to add or remove features if needed
