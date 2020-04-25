@@ -1,4 +1,5 @@
 # OSDBIOSPrerequisitesTool
+Images are older and the _Secure Host Baseline Prerequisites Tool_ was renamed to _BIOS Prerequisites Tool_
 ![UI](https://1.bp.blogspot.com/-hAkLcE0pWgo/XqROTpp9tCI/AAAAAAAAZHM/OFIDKVmePzwiLeIen_8FZy1j26a_NynKQCLcBGAsYHQ/s640/osdprereqTool_UI.png)
 ![Logging](https://1.bp.blogspot.com/-1vzf2zUMIS0/XqRPbLspCTI/AAAAAAAAZHc/T87wvYJEQysKP2Rhrdv-ktpQhMqrYoLNgCLcBGAsYHQ/s640/osdprereqTool_logging.png)
 
